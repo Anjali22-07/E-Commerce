@@ -1,0 +1,27 @@
+we will be using Maven for this Project. So, Before we start we must know why Maven project?-- 
+
+what is Maven?--  Maven is a powerful project management tool that  is based on POM [Project Object Model].
+-- Maven adds dependancy automatically we don't need to add them manually 
+-- it has a pom.xml file which automatically adds dependancy --after we mention the dependencies needed.
+-- maven builds automatically when we  need to deploy projects--like jar or var files.Maven is too much of an advanced feature than maven 
+
+problems if maven is not used
+--maven -- creates the right project structure-- it is little complicated vwhen done by ourselves.
+--Adding set of jars in each project
+--Building and deploying the project manually.
+
+MAVEN PROVIDES US :
+
+--BUILD
+--DOCUMENTATION
+--RELEASES
+--DEPENDENCIES
+and many more 
+
+-- we use hibernate for objet relational mapping. Hibernate is an ORM tool. It is a java framework that simplifies the development of java application to interact with the database.
+It is an Open-Source Lightweight  and non-Invasive framework. It won't force the programmers to extend or Implement any class/Interface.
+--Class is mapped with the table. We map each field of class wih the column of the database.
+-- We do not need to manually write query. We just need to inform hibernate and it will automatically map objects to the database.-- class will be mapped to the table.
+
+
+--------
